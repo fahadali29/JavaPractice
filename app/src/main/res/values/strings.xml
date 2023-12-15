@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">JavaPractice</string>
     <string name="wallpaper">wallpaper</string>
+    <string name="hello">Hello</string>
 </resources>
